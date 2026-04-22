@@ -1,1 +1,3 @@
 1. python如何使用基础数据结构来实现一个hashmap，将实现过程写到hash_map.py文件中
+
+2. 使用基础数据结构实现一个LRUCache，将实现过程写到lru_cache.py文件中
